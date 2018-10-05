@@ -20,7 +20,6 @@ app.use(express.static(__dirname + '/public'));
 
 //Rotas
 app.get('/teste', (req, res) => {
-    console.log(req);
     res.render('test', { 
         pageTitle: 'Página de Teste',        
      });
