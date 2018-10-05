@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(0,0,0);
+    color: rgb(0,255,0);
+    letter-spacing: .12em;
+    font-family: 'Monospace'; 
+  }
+
+  td {
+    border-spacing: 10em;
+  }
